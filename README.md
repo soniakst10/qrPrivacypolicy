@@ -1,0 +1,2 @@
+# qrPrivacypolicy
+full
